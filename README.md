@@ -71,12 +71,12 @@ langgraph dev
 | Feature                | File / Description                              |
 |------------------------|-------------------------------------------------|
 | **Prompt Design**      | `prompts.py` – Editable system instructions     |
-| **Model Loader**       | `google_model.py` – Connects to Gemini          |
+| **Model Loader**       | `configuration.py` – Connects to Gemini          |
 | **Workflow Agent**     | `graph.py` – Agent loop with logic              |
 | **Tavily Search Tool** | `tools.py` – Web search integration             |
 | **Save Workflow Tool** | `tools.py` – Writes agent workflow to disk      |
 | **Human Review**       | HITL step in agent routing logic                |
-| **Memory System**      | `memory.py` – Simple in-memory message store    |
+| **Memory System**      | Simple in-memory message store                  |
 
 ---
 

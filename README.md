@@ -2,7 +2,7 @@
 
 A powerful, extensible AI workflow agent built using [LangGraph](https://github.com/langchain-ai/langgraph) that leverages:
 
-- **Google Gemini** models via **Vertex AI**
+- **Google Gemini** models
 - **LangGraph Studio** for debugging, visualization & time travel
 - **Tavily** for real-time web search
 - **Workflow creation, review, and saving**

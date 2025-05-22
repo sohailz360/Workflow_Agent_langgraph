@@ -29,7 +29,7 @@ This agent functions as a **workflow orchestrator**. It takes a user query and:
 
 | Component         | Description                                           |
 |------------------|-------------------------------------------------------|
-| **LLM Backend**   | Google Gemini (`gemini-2.0-flash`) via Vertex AI     |
+| **LLM Backend**   | Google Gemini (`gemini-2.0-flash`)                   |
 | **Tooling**       | Tavily Search, Save-to-File Workflow Tool            |
 | **LangGraph IDE** | Full support for LangGraph Studio                    |
 | **HITL**          | CLI-based review before finalizing output            |

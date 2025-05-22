@@ -1,4 +1,4 @@
-# 🧠 LangGraph Workflow Agent – Gemini Edition
+#  LangGraph Workflow Agent –
 
 A powerful, extensible AI workflow agent built using [LangGraph](https://github.com/langchain-ai/langgraph) that leverages:
 

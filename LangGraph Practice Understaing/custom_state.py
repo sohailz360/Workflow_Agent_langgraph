@@ -10,7 +10,7 @@ from langgraph.graph import StateGraph, START, END
 from langgraph.graph.message import add_messages
 from langgraph.prebuilt import ToolNode, tools_condition
 from langgraph.types import Command, interrupt
-os.environ["GOOGLE_API_KEY"] = "AIzaSyAFOaJYSfLPd-iTpCtjJ2hPqocedUoy_-M"
+os.environ["GOOGLE_API_KEY"] = "your api here"
 
 llm = init_chat_model("google_genai:gemini-2.0-flash")
 class State(TypedDict):

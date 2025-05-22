@@ -43,7 +43,7 @@ This agent functions as a **workflow orchestrator**. It takes a user query and:
 
 ```bash
   git clone https://github.com/sohailz360/Workflow_Agent_langgraph.git
-  cd react-agent
+  cd Workflow_Agent_langgraph
 ```
 ## 2. Set Up Environment Variables
 

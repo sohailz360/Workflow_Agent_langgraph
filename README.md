@@ -82,7 +82,7 @@ langgraph dev
 
 
 ## File Structure
-
+```
 src/react_agent/
 │
 ├── graph.py              # Main workflow agent logic
@@ -91,3 +91,4 @@ src/react_agent/
 ├── state.py              # Agent input/output schema
 ├── configuration.py      # LangGraph configuration
 └── utils.py              # Helper functions
+```
